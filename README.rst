@@ -41,7 +41,7 @@ Commercial support is also available by `Scrapinghub`_.
 .. _Scrapinghub: http://scrapinghub.com
 
 Development
-===========
+===============
 
 Release
 -------
